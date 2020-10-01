@@ -1,0 +1,11 @@
+{
+  "name": "capturing-pic-of-page",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/GustavoOliveiraRosa/webscrappingNodeJS.git",
+  "author": "Gustavo <gustavoolrosa2019@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "puppeteer": "^5.3.1"
+  }
+}
